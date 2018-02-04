@@ -16,5 +16,4 @@ cd
 nano xmr-stak/xmrstak/donate-level.hpp 
 cd xmr-stak/build/bin 
 screen
-
 ./xmr-stak 
